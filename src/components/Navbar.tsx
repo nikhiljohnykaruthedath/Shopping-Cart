@@ -1,10 +1,5 @@
-import {
-	Button,
-	Container,
-	Nav,
-	NavLink,
-	Navbar as NavbarBS,
-} from "react-bootstrap";
+import { Button, Container, Nav, Navbar as NavbarBS } from "react-bootstrap";
+import { NavLink } from "react-router-dom";
 
 export function Navbar() {
 	return (
